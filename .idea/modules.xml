@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OCRSample-master.iml" filepath="$PROJECT_DIR$/.idea/modules/OCRSample-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OCRSample-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OCRSample-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OCRSample-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OCRSample-master.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OCRSample-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OCRSample-master.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OCRSample-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OCRSample-master.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ocrlibrary/OCRSample-master.ocrlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/ocrlibrary/OCRSample-master.ocrlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ocrlibrary/OCRSample-master.ocrlibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ocrlibrary/OCRSample-master.ocrlibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ocrlibrary/OCRSample-master.ocrlibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ocrlibrary/OCRSample-master.ocrlibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ocrlibrary/OCRSample-master.ocrlibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ocrlibrary/OCRSample-master.ocrlibrary.unitTest.iml" />
+    </modules>
+  </component>
+</project>
